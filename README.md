@@ -1,10 +1,5 @@
-# project-da-promo-c-module-1-team-2
 
-Equipo 2: Delfín
- 
 Descripción del proyecto
-
-El proyecto se basa en la aplicación de los métodos de tratamiento de datos aprendidos a lo largo del primer módulo del bootcamp Data Analitycs Promo C de Adalab.
 
 El objetivo del proyecto es automatizar el sistema de tratamiento de información en la lectura, creación y actualización de una base de datos (BBDD), basado en 3 ficheros - sql, xml, txt -  enviados por el cliente.
 
